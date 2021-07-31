@@ -1,0 +1,155 @@
+{
+    "basics": {
+        "name": "Aaryan Choudhary",
+        "label": "Student",
+	"picture": "https://pbs.twimg.com/profile_images/1389975504007036933/XbHNAHdm.jpg",
+        "email": "2020kucp1108@iiitkota@iiitkota.ac.in",
+        "phone": "+917032165282",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "chiyyapudu",
+            "postalCode": "513655",
+            "city": "kadapa",
+            "countryCode": " India",
+            "region": "andhra Pradesh"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "lekkl",
+                "url": "https://github.com/lekkl"
+            },
+            {
+                "network": "linkedin",
+                "username": "AARYAN CHOUDHARY",
+                "url": "https://www.linkedin.com/in/aaryan-choudhary-7477b7203/"
+            },
+            {
+                "network": "Instagram",
+                "username": "nithin-reddy-14",
+                "url": "https://www.instagram.com/invites/contact/?i=162nl6zhhc0ai&utm_content=ji67w8s"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+    "references": []
+}{
+    "basics": {
+        "name": "lekkaia nithin kumar reddy",
+        "label": "Student",
+	"picture": "https://pbs.twimg.com/profile_images/1389975504007036933/XbHNAHdm.jpg",
+        "email": "2020kucp1108@iiitkota@iiitkota.ac.in",
+        "phone": "+917032165282",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "chiyyapudu",
+            "postalCode": "513655",
+            "city": "kadapa",
+            "countryCode": " India",
+            "region": "andhra Pradesh"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "lekkl",
+                "url": "https://github.com/lekkl"
+            },
+            {
+                "network": "linkedin",
+                "username": "nithin",
+                "url": "https://twitter.com/NithinR61807293?s=08"
+            },
+            {
+                "network": "Instagram",
+                "username": "nithin-reddy-14",
+                "url": "https://www.instagram.com/invites/contact/?i=162nl6zhhc0ai&utm_content=ji67w8s"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+    "references": []
+}
